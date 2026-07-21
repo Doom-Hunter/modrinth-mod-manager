@@ -24,7 +24,7 @@ Add-Content $PROFILE "`nfunction modmanager { python C:\path\to\modrinth-mod-man
 
 ```
 ## Installation Script
-If you're not nerdy enough to figure out the setup, you can copy and run this script below and it'll set things up for you.
+If you're not nerdy enough to manually do the setup or can't bother enough to manually setup, you can copy and run this script below and it'll set things up for you.
 
 ### mac/Linux (bash/zsh)
 ```bash
