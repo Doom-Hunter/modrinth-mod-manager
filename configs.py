@@ -1,0 +1,6 @@
+SEARCH_URL = "https://api.modrinth.com/v2/search"
+PROJECT_BASE_URL = "https://api.modrinth.com/v2/project"
+PROJECTS_BASE_URL = "https://api.modrinth.com/v2/projects"
+VERSIONS_BASE_URL = "https://api.modrinth.com/v2/versions"
+PROJECT_DIR_NAME = ".mmm"
+CONFIG_FILE_NAME = "config.json"
